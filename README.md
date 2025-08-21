@@ -74,7 +74,7 @@
         <tr>
             <td>Hooters</td>
             <td>Sports bar & grill chain famous for chicken wings</td>
-            <td>~$40/person flat fee</td>
+            <td>~$20 per person</td>
             <td>Queens</td>
             <td>
               <a href="https://maps.apple.com/?address=33-09%20Broadway,%20Queens,%20NY%2011106,%20United%20States&auid=13760239438700061347&ll=40.761175,-73.923290&lsp=9902&q=Eatzy%20Thai&t=m">Apple Maps</a> /
