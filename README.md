@@ -75,5 +75,37 @@
 </table>
 
 ## Brooklyn
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Estimated Cost</th>
+            <th>Borough</th>
+            <th>Link</th>
+        </tr>
+    </thead>
+<tbody>
+        <tr>
+            <td>Birria LES</td>
+            <td>BIRRIA TACOS</td>
+            <td>$10-20 a person</td>
+            <td>Brooklyn/Williamsburg</td>
+            <td>
+              <a>Apple Maps</a> /
+              <a href="https://share.google/azKw82A4eS0cOxyFb">Google Maps</a>
+            </td>
+        </tr>
+    <tr>
+        <td>Marthas Bakery</td>
+        <td>Bakery + Cafe (good cheesecake)</td>
+        <td>$5-10 for a bakery item</td>
+        <td>Brooklyn/Williamsburg</td>
+    <td>
+        <a href="https://share.google/73FLvDIwi03kuEYTB">Google Maps</a>
+    </td>
+    </tr>
+</tbody>
+</table>
 
 ## Staten Island
