@@ -45,6 +45,16 @@
               <a href="https://www.google.com/maps?daddr=40.762244,-73.983757">Google Maps</a>
             </td>
         </tr>
+        <tr>
+            <td>Ambo</td>
+            <td>Indian Cuisine</td>
+            <td>$15-20 (more if you fat)</td>
+            <td>Manhattan</td>
+            <td>
+              <a href="https://maps.apple.com/place?place-id=IB0FAB24F2F9BA422&address=55C+E+Eighth+St%2C+New+York%2C+NY+10003%2C+United+States&coordinate=40.7312264%2C-73.9935422&name=Ambo&_provider=9902">Apple Maps</a> /
+              <a href="https://maps.app.goo.gl/82UifL2EA1F2N59s8">Google Maps</a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
