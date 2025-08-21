@@ -38,6 +38,7 @@
     </tbody>
 </table>
 
+
 ## Queens
 
 <table>
@@ -71,6 +72,17 @@
               <a href="https://maps.app.goo.gl/VpXniX3xW7QsYdt68">Google Maps</a>
             </td>
         </tr>
+        <tr>
+            <td>Little Flower Cafe</td>
+            <td>Coffee + Breakfast</td>
+            <td>$10-20</td>
+            <td>Queens/Astoria</td>
+            <td>
+                <a href="https://share.google/yIQ614kaG9gnwa3fc">Google Maps</a>
+            </td>
+            
+        </tr>
+        
     </tbody>
 </table>
 
@@ -109,3 +121,4 @@
 </table>
 
 ## Staten Island
+
