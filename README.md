@@ -35,6 +35,16 @@
               <a href="https://maps.app.goo.gl/tMvhgcjbiHrjNLCh6">Google Maps</a>
             </td>
         </tr>
+        <tr>
+            <td>Hyun</td>
+            <td>ALL YOU CAN EAT JAPANESE A5 WAGYU KBBQ</td>
+            <td>$130–160 per person</td>
+            <td>Manhattan</td>
+            <td>
+              <a href="https://maps.apple.com/?address=10%20E%2033rd%20St,%20New%20York,%20NY%2010016,%20United%20States&ll=40.747681,-73.985274&q=Hyun&t=m">Apple Maps</a> /
+              <a href="https://maps.app.goo.gl/x1R1babV46ARWAiKA">Google Maps</a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
