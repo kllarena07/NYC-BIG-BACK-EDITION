@@ -58,6 +58,7 @@
     </tbody>
 </table>
 
+
 ## Queens
 
 <table>
@@ -91,9 +92,53 @@
               <a href="https://maps.app.goo.gl/VpXniX3xW7QsYdt68">Google Maps</a>
             </td>
         </tr>
+        <tr>
+            <td>Little Flower Cafe</td>
+            <td>Coffee + Breakfast</td>
+            <td>$10-20</td>
+            <td>Queens/Astoria</td>
+            <td>
+                <a href="https://share.google/yIQ614kaG9gnwa3fc">Google Maps</a>
+            </td>
+            
+        </tr>
+        
     </tbody>
 </table>
 
 ## Brooklyn
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Estimated Cost</th>
+            <th>Borough</th>
+            <th>Link</th>
+        </tr>
+    </thead>
+<tbody>
+        <tr>
+            <td>Birria LES</td>
+            <td>BIRRIA TACOS</td>
+            <td>$10-20 a person</td>
+            <td>Brooklyn/Williamsburg</td>
+            <td>
+              <a>Apple Maps</a> /
+              <a href="https://share.google/azKw82A4eS0cOxyFb">Google Maps</a>
+            </td>
+        </tr>
+    <tr>
+        <td>Marthas Bakery</td>
+        <td>Bakery + Cafe (good cheesecake)</td>
+        <td>$5-10 for a bakery item</td>
+        <td>Brooklyn/Williamsburg</td>
+    <td>
+        <a href="https://share.google/73FLvDIwi03kuEYTB">Google Maps</a>
+    </td>
+    </tr>
+</tbody>
+</table>
 
 ## Staten Island
+
