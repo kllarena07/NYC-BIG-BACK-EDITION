@@ -35,6 +35,16 @@
               <a href="https://maps.app.goo.gl/tMvhgcjbiHrjNLCh6">Google Maps</a>
             </td>
         </tr>
+        <tr>
+            <td>McDonalds</td>
+            <td>McDonalds</td>
+            <td>$50 (if you're fat)</td>
+            <td>Manhattan</td>
+            <td>
+              <a href="https://maps.apple.com/place?place-id=I311A8B7BF5117E6C&address=1651+Broadway%2C+Manhattan%2C+NY+10019%2C+United+States&coordinate=40.7622609%2C-73.9838518&name=McDonald%27s&_provider=9902">Apple Maps</a> /
+              <a href="https://www.google.com/maps?daddr=40.762244,-73.983757">Google Maps</a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
