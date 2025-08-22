@@ -84,11 +84,21 @@
         <tr>
             <td>Phil-Am Food Mart</td>
             <td>Filipino bakery</td>
-            <td>~$10 per bakery item</td>
+            <td>~$10-20 per person</td>
             <td>Queens</td>
             <td>
-              <a href="https://maps.apple.com/?address=4003%2070th%20St,%20Woodside,%20NY%2011377,%20United%20States&auid=11645042100264220660&ll=40.746306,-73.895196&lsp=9902&q=Phil-Am%20Food%20Mart&t=m">Apple Maps</a> /
-              <a href="https://maps.app.goo.gl/VpXniX3xW7QsYdt68">Google Maps</a>
+              <a href="https://maps.apple.com/place?place-id=IE017706D0F0E8508&address=61-09+190th+St%2C+Fresh+Meadows%2C+NY+11365%2C+United+States&coordinate=40.740753%2C-73.7844328&name=Hooters&_provider=9902">Apple Maps</a> /
+              <a href="https://maps.app.goo.gl/Zn3F3uWfKFkw4JJ76">Google Maps</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Hooters</td>
+            <td>Sports bar & grill chain famous for chicken wings</td>
+            <td>~$20 per person</td>
+            <td>Queens</td>
+            <td>
+              <a href="https://maps.apple.com/?address=33-09%20Broadway,%20Queens,%20NY%2011106,%20United%20States&auid=13760239438700061347&ll=40.761175,-73.923290&lsp=9902&q=Eatzy%20Thai&t=m">Apple Maps</a> /
+              <a href="https://maps.app.goo.gl/BDcjgCEtbMfmQYZn6">Google Maps</a>
             </td>
         </tr>
     </tbody>
